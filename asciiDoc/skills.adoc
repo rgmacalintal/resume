@@ -1,0 +1,55 @@
+== Skills
+
+=== Technical Skills
+
+==== Coding in Programming, Markup, Scripting, Query, and other Languages/Formats
+|====
+|Java   |Python |SQL   
+|C      |C++    |Assembly
+|YML    |Bash   |Linux CLI Commands
+|HTML   |React  |AsciiDoc
+|XML    |PHP    |JavaScript
+|CSS    |JSON   |Typescript
+|====
+
+==== Using various Developer Tools
+|====
+|Maven  |Docker |Kubernetes
+|Conda  |Helm   |Minikube
+|SSH    |Bruno  |Postman
+|====
+
+==== Using Virtual Machines
+|====
+|VMWare |VirtualBox
+|====
+
+==== Proving, analyzing, and applying Mathematical concepts
+|====
+|Calculus   |Probability Theory
+|Statistics |Linear Algebra
+|Quantum Computing ^.^|-
+|====
+
+==== IT support-related skills
+
+* Replacing RAM, hard drives, SSDs
+* Setting up workstations
+* Using MECM and Remote Desktop Control for software installation
+
+==== Others
+
+* Working with Microsoft Office tools: Word, PowerPoint, Excel, Outlook, and Teams
+* Data entry and verification using Salesforce and Schuylab
+* Teaching/Tutoring students in various academic levels
+
+=== Soft Skills and Competencies
+
+* Analytical/Critical Thinking
+* Client Focus
+* Effective Verbal and Written Commmunication
+* Organizing
+* Problem-Solving
+* Providing Technical Recommendations
+* Teamwork
+* Time Management

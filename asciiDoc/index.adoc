@@ -1,0 +1,22 @@
+:toc: auto
+:toclevels: 1
+:icons: font
+
+= Robert Gabriel Macalintal - Resume/CV
+
+// Site and Resume are still in development... +
+// If preferred, you can view my link:files/RobertMacalintal_Resume.pdf[Resume/CV] in .pdf format
+
+include::personalInfo.adoc[]
+
+include::skills.adoc[]
+
+include::experience.adoc[]
+
+include::education.adoc[]
+
+// include::projects.adoc[]
+
+include::languages.adoc[]
+
+include::references.adoc[]
