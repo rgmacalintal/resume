@@ -5,7 +5,7 @@
 = Robert Gabriel Macalintal - Resume/CV
 
 // Site and Resume are still in development... +
-// If preferred, you can view my link:files/RobertMacalintal_Resume.pdf[Resume/CV] in .pdf format
+If preferred, you can view my link:files/RobertMacalintal_Resume.pdf[Resume/CV] in .pdf format
 
 include::personalInfo.adoc[]
 
