@@ -1,14 +1,15 @@
+[[skills]]
 == Skills
 
 === Technical Skills
 
 ==== Coding in Programming, Markup, Scripting, Query, and other Languages/Formats
 |====
-|Java   |Python |SQL   
-|C      |C++    |Assembly
-|YML    |Bash   |Linux CLI Commands
+|Java   |Python |Assembly
+|C      |C++    |Bash Commands 
+|R      |SQL    |Windows CLI Commands
 |HTML   |React  |AsciiDoc
-|XML    |PHP    |JavaScript
+|YML    |PHP    |JavaScript
 |CSS    |JSON   |Typescript
 |====
 

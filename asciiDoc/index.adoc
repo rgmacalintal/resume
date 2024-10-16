@@ -7,7 +7,7 @@
 // Site and Resume are still in development... +
 If preferred, you can view my link:files/RobertMacalintal_Resume.pdf[Resume/CV] in .pdf format
 
-include::personalInfo.adoc[]
+include::contactInfo.adoc[]
 
 include::skills.adoc[]
 
