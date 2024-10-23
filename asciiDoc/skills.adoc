@@ -15,9 +15,9 @@
 
 ==== Using various Developer Tools
 |====
-|Maven  |Docker |Kubernetes
-|Conda  |Helm   |Minikube
-|SSH    |Bruno  |Postman
+|Maven  |Docker |Minikube   |Kubernetes
+|Helm   |GitHub |Bruno      |Postman
+|Conda  |SSH    |ThinLinc   ^.^|-
 |====
 
 ==== Using Virtual Machines
