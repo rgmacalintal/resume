@@ -16,7 +16,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    environment: 
+      name: github-pages
     steps:
       - uses: actions/checkout@v4
 
@@ -30,6 +31,11 @@ jobs:
         run: |
           mkdir generated-docs/files
           cp -r asciiDoc/files/. generated-docs/files
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'generated-docs'
 
       - name: Deploy GitHub Pages
         if: ${{ github.ref == 'refs/heads/main' }}
