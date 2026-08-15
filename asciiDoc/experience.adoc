@@ -1,9 +1,19 @@
 [[experience]]
 == Experience
 
+=== National Capital FreeNet
+*Ottawa, ON* +
+*May 2026 - Present*
+
+==== HelpDesk Analyst
+
+* Configured assets such as modems
+* Analyzed DSL and Fibre connections through Line Profiles and Active Sessions
+* Troubleshoot issues regarding internet issues and other things like Email client issues, Windows and Apple connectivity, etc.
+
 === Agriculture and Agri-Food Canada (AAFC-AAC) - Government of Canada
 *Ottawa, ON* +
-*January 2024 - Present*
+*January 2024 - August 2025*
 
 ==== Programmer Analyst
 
