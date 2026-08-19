@@ -9,14 +9,14 @@ If preferred, you can view my link:files/RobertMacalintal_Resume.pdf[Resume/CV] 
 
 include::contactInfo.adoc[]
 
-include::skills.adoc[]
-
 include::experience.adoc[]
+
+include::skills.adoc[]
 
 include::education.adoc[]
 
-// include::projects.adoc[]
+include::projects.adoc[]
 
-include::languages.adoc[]
+// include::languages.adoc[]
 
 include::references.adoc[]
