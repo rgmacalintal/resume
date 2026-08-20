@@ -1,5 +1,12 @@
 [[languages]]
 == Languages
 
+=== Fluent In
+
 * English
 * Tagalog
+
+=== Can Understand a Little
+
+* Spanish
+* French

@@ -20,3 +20,5 @@ include::projects.adoc[]
 // include::languages.adoc[]
 
 include::references.adoc[]
+
+include::email.adoc[]
