@@ -1,0 +1,5 @@
+= Thanks!
+
+== Thanks for the message! I'll be sure to get back to you as soon as I can. Cheers!
+
+link:index.adoc[>> Back to my Resume]
