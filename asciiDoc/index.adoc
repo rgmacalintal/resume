@@ -21,4 +21,4 @@ include::projects.adoc[]
 
 include::references.adoc[]
 
-include::email.adoc[]
+// include::email.adoc[]

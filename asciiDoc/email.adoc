@@ -2,18 +2,18 @@
 == Contact Me!
 
 ++++
-<form action="/submit" method="POST">
+<form action="https://formsubmit.co" method="POST">
   <label for="name">Name:</label><br>
   <input type="text" class="text" id="name" name="name" placeholder="Name Here"><br><br>
 
   <label for="email">Email Address:</label><br>
-  <input type="text" class="text" id="email" name="email" placeholder="sample@email.com"><br><br>
+  <input type="text" class="text" id="email" name="email" placeholder="sample@email.com" required><br><br>
 
   <label for="msg">Message:</label><br>
-  <textarea type="text" id="msg" name="msg" class="static-textarea" placeholder="Type here...">
+  <textarea type="text" id="msg" name="msg" class="static-textarea" placeholder="Type here..." required>
   </textarea><br><br>
 
-  <input type="button" value="Send">
+  <input type="submit" value="Send">
 </form>
 
 <style>
