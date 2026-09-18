@@ -15,17 +15,25 @@
 *Ottawa, ON* +
 *January 2024 - August 2025*
 
-==== Programmer Analyst
+==== Programmer/Developer
 
-* Learned programming best practices
-* Worked in a team of programmers, managers, and other experts to build an open-source web application
-* Learned and utilized various programming languages, scripting languages, and concepts to build and document projects
+Worked on the DINA project – a FOSS project / web application collaborated on by multiple government
+departments such as AAFC, DFO, and Health Canada – React frontend, Postgres database, Java backend
+* Used Python and ORM concepts and methodologies to migrate data from a legacy web application to a
+newer application which improved data-entry efficiency by 100%
+* Developed Python migration scripts based on data given by other departments to migrate Excel sheet data
+into the DINA web application
+* Updated Helm chart to fix migration problems that was found in RabbitMQ
+* Migrated 10+ Enzyme tests to React Testing Library tests (Frontend tests)
+* Updated tickets to document and keep track of work item progress
 
 ==== IT Technician
 
-* Recycled old computers by removing old hard drives and clearing them and setting them up for delivery
-* Talked to clients in a professional and friendly manner in order to solve problems
-* Troubleshooting hardware and software problems
+* Provided Tier 1/2 IT support to clients in Ottawa, ensuring timely and effective resolution of assigned tickets
+* Managed user accounts in Active Directory
+* Conducted desktop imaging and computer reimaging to streamline device deployment for end-users
+* Diagnosed and resolved hardware issues, including upgrading RAM, replacing faulty components, and preparing legacy desktops for surplus
+* Gained experience in IT asset lifecycle management, hardware/software troubleshooting, and modern workplace technologies
 
 === Ottawa Public Health (OPH) - City of Ottawa
 *Ottawa, ON* +
