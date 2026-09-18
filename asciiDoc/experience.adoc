@@ -19,6 +19,7 @@
 
 Worked on the DINA project – a FOSS project / web application collaborated on by multiple government
 departments such as AAFC, DFO, and Health Canada – React frontend, Postgres database, Java backend
+
 * Used Python and ORM concepts and methodologies to migrate data from a legacy web application to a
 newer application which improved data-entry efficiency by 100%
 * Developed Python migration scripts based on data given by other departments to migrate Excel sheet data
