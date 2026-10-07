@@ -1,4 +1,22 @@
 [[projects]]
 == Projects
 
-=== To Be Added
+=== Forgeborn – A D&D companion web application
+https://github.com/rgmacalintal/project-hexblade - all work progress made in the ‘dev’ branch
+* MVC Architecture
+* ASP.NET Core / C# backend component
+* React.js frontend component
+* MySQL database
+
+=== Battleship – Recreation of the game Battleship 
+https://github.com/rgmacalintal/Battleship 
+* Java 17 backend, and Java Swing frontend
+* Dev mode enabling developers to see the computer opponent’s board
+* Some internationalization implementations to switch between English and Tagalog
+* Network component enabling players to play against each other (dev mode disabled)
+
+=== Pong – Recreation of the classic Pong Game
+https://github.com/rgmacalintal/Pong 
+* Build in Unreal Engine 5 and coded in C++
+* Implemented paddle movement, ball physics, and collision detection systems
+* Designed simple AI logic for opponent paddle behavior

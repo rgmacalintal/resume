@@ -17,8 +17,4 @@ include::education.adoc[]
 
 include::projects.adoc[]
 
-// include::languages.adoc[]
-
 include::references.adoc[]
-
-// include::email.adoc[]
