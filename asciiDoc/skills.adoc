@@ -5,12 +5,10 @@
 
 ==== IT Support-Related Skills
 
-* Replacing RAM, Hard Drives, SSDs
-* Setting-up Workstations
 * Using MECM and Remote Desktop Control (RDC)
 * Troubleshooting Hardware, Software, and Network related problems
-* Configuring assets like Modems and Routers
-* Reimaging computers for new users
+* Configuring network assets like Modems and Routers
+* Reimaging computers
 
 ==== Coding Languages
 |====
@@ -36,9 +34,7 @@
 
 ==== Mathematical Concepts
 |====
-|Calculus   |Probability Theory
-|Statistics |Linear Algebra
-|Quantum Computing ^.^|-
+|Calculus   |Probability & Statistics |Linear Algebra
 |====
 
 ==== Others
